@@ -273,7 +273,9 @@ footer p {
 
     height:250px;
 
-    object-fit:contain;
+    object-fit:cover;
+
+    object-position:center;
 
     display:block;
 
